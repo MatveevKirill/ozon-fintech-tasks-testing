@@ -1,1 +1,1 @@
-# ozon-fintech-testing
+# ozon-fintech-tasks-testing
